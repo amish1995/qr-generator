@@ -68,7 +68,7 @@ All QR code generation happens locally in your browser.
 
 ---
 
-✅ Ready to use and share your QR codes instantly!
+
 
 
 ### ✅ Ready to use and share your QR codes instantly!
