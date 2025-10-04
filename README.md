@@ -56,7 +56,7 @@ All QR code generation happens locally in your browser.
 
 ## 📷 Screenshot
 
-![QR Generator Popup](images/ss.png)
+![QR Generator Popup](image/ss.png)
 
 ---
 
