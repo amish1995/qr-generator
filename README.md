@@ -6,11 +6,7 @@ Quick QR Generator is a simple and lightweight Chrome extension that allows you 
 
 ## 🎥 Demo Video
 
-<video width="600" controls>
-  <source src="Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
-*(Click the image to watch the demo video)*
+[Click here to watch the demo video](images/demo.mp4)
 
 ---
 
@@ -57,7 +53,7 @@ All QR code generation happens locally in your browser.
 ## 📷 Screenshots
 
 
-![QR Generator Popup](qr-extension/assets/ss.png)
+![QR Generator Popup](images/ss.png)
 
 
 ---
