@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>QR Generator</title>
+  <style>
+    body { font-family: Arial, sans-serif; width: 320px; text-align: center; padding: 10px; }
+    input[type="text"] { width: 90%; padding: 6px; margin: 10px 0; }
+    input[type="color"] { margin: 5px; cursor: pointer; }
+    button { padding: 6px 12px; margin: 5px; border: none; border-radius: 5px; background: #007bff; color: white; cursor: pointer; }
+    button:hover { background: #0056b3; }
+    #qrcode { margin-top: 15px; }
+  </style>
+</head>
+<body>
+  <h3>QR Code Generator</h3>
+
+  <input type="text" id="link" placeholder="Enter link or text"><br>
+
+  <label>Foreground: <input type="color" id="colorDark" value="#0d47a1"></label>
+  <label>Background: <input type="color" id="colorLight" value="#ffffff"></label><br>
+
+  <button id="generate">Generate</button>
+  <button id="download">Download</button>
+
+  <div id="qrcode"></div>
+
+  <script src="qrcode.min.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
