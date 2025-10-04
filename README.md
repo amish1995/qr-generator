@@ -82,7 +82,7 @@ All QR code generation happens locally in your browser.
 
 ## Notes
 
-- Works best with valid URLs like `https://www.google.com`  
+- Works best with valid URLs like `https://www.github.com`  
 - Ensure proper icon files (`icon16.png`, `icon48.png`, `icon128.png`) are present  
 - Logo inside the QR is optional  
 
